@@ -13,7 +13,7 @@ AppleScript made for [Alfred](https://www.alfredapp.com/) and [Spotify](https://
 ## How it works
 This is a very basic/"manual" script. It does the following:
 1. Use Spotify API to get current artist and current track
-2. Open safari
+2. Open Safari
 3. Open [Genius](https://www.genius.com) and search for current track.
    - I found that this could be done by entering the URL *"http://genius.com/search?q="* + *track_name* + *" "* + *track_artist*
 4. Simulate a click on the most popular result.
