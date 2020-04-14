@@ -18,6 +18,6 @@ This is a very basic/"manual" script. It does the following:
 4. Simulate a click on the most popular result.
 5. Simulate *cmd* + *shift* + *r* to get into *reading view*
 
-## Implementation I would like
+## Potential improvements
 1. Automated scroll so that it follows the Lyrics. 
    - It may be possible to do this simply by comparing length of the song and length of lyrics, and then setting a fixed scroll speed.
