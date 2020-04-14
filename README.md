@@ -6,7 +6,7 @@ AppleScript made for use with [Alfred](https://www.alfredapp.com/) and [Spotify]
 
 ## How to use
 1. Open Alfred. In my case *option* + *space*
-2. Type *Lyrics*
+2. Type *lyrics* and press enter
 3. Safari will now open and show you the lyrics
 
 ## How it works
