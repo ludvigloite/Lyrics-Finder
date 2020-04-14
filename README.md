@@ -1,13 +1,14 @@
 # Lyrics-Finder
 
-AppleScript made for use with [Alfred](https://www.alfredapp.com/) and [Spotify](https://www.spotify.com/)
+AppleScript made for [Alfred](https://www.alfredapp.com/) and [Spotify](https://www.spotify.com/)
 
 ![gif](images/Lyrics_finder_Billie_Jean.gif)
 
 ## How to use
-1. Open Alfred. In my case *option* + *space*
-2. Type *lyrics* and press enter
-3. Safari will now open and show you the lyrics
+1. Play any song in Spotify
+2. Launch Alfred. In my case press *option* + *space*
+3. Type *lyrics* and press *enter*
+4. Safari will now open and show you the lyrics
 
 ## How it works
 This is a very basic/"manual" script. It does the following:
