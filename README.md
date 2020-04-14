@@ -2,7 +2,7 @@
 
 AppleScript made for use with [Alfred](https://www.alfredapp.com/) and [Spotify](https://www.spotify.com/)
 
-![gif](Lyrics_finder_Billie_Jean.gif)
+![gif](images/Lyrics_finder_Billie_Jean.gif)
 
 ## How to use
 1. Open Alfred. In my case *option* + *space*
